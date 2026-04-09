@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 About Me
+
+- 💻 Mobile Developer
+- 🧠 Practicing DSA on LeetCode
+- 🔗 https://leetcode.com/u/khthien/
+
+## 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/khthien)
