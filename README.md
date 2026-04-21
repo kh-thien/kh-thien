@@ -9,8 +9,8 @@
 ## GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kh-thien&show_icons=true&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-thien&layout=compact&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kh-thien&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-thien&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
 </p>
 
 ---
